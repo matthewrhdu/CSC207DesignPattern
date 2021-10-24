@@ -1,1 +1,1 @@
-# CSC207DesignPattern
+# CSC207 Design Pattern
